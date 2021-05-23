@@ -1,0 +1,19 @@
+{
+  "name": "helsinki-walk",
+  "version": "0.0.1",
+  "description": "Helsinki Spiral Walk Visualization",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "nodejs index.js"
+  },
+  "keywords": [
+    "geodata",
+    "walk"
+  ],
+  "author": "Timo Tuominen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
